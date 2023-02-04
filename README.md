@@ -9,6 +9,20 @@
 - IT Graduates
 <hr>
 
+## Skills:
+
+✅ Laravel
+
+✅ PHP
+
+✅ REST API
+
+✅ HTML/HTML5
+
+✅ CSS/CSS3
+
+✅ Bootstrap
+
 <br>
 
 ## 💻 Projects
