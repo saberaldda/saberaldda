@@ -1,6 +1,6 @@
 <!-- <h1> Hi there, I'm Saber Al-Dada 👋 </h1>
  -->
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm <a href="/">Saber Al-Dada!</a></h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm <a href="#">Saber Al-Dada!</a></h1>
 
 <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
 
