@@ -10,7 +10,7 @@
 - PHP laravel Developer
 - IT Graduates
 <hr>
- 
+
 ## Skills:
 
 ✅ Laravel
