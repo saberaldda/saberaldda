@@ -26,7 +26,7 @@
 ✅ Bootstrap
 
 <br>
-
+ 
 ## 💻 Projects
 
 Here are some of my recent projects that I'm proud of:
