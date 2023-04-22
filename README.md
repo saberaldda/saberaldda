@@ -8,7 +8,6 @@
 
 - Backend Web Developer
 - PHP laravel Developer
-- IT Graduates
 <hr>
 
 ## Skills:
