@@ -12,9 +12,11 @@
 
 ## Skills:
 
+✅ PHP
+
 ✅ Laravel
 
-✅ PHP
+✅ Livewire
 
 ✅ REST API
 
