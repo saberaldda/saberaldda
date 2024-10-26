@@ -12,25 +12,45 @@
 
 ## Skills:
 
+<table border="0">
+    <tr>
+        <td>
+
 ✅ PHP
 
 ✅ Laravel
 
 ✅ Livewire
 
+✅ Docker
+
 ✅ REST API
 
+✅ MySQL
+
+✅ Git
+        </td>
+        <td>
 ✅ HTML/HTML5
 
 ✅ CSS/CSS3
 
 ✅ Bootstrap
 
+✅ Tailwind
+
+✅ JS
+        </td>
+    </tr>
+</table>
+
 <br>
  
 ## 💻 Projects
 
 Here are some of my recent projects that I'm proud of:
+
+- 👨‍🏫 [Tahfiz](https://github.com/saberaldda/tahfiz) - برنامج لإدارة أنشطة حلقات التحفيظ, يهدف البرنامج لوضع أنشطة يومية للطالب ومتابعتها مع وجود تقييم لأداء الطالب لهذه الأنشطة
 
 - 🕊🚀 [Chirper](https://github.com/saberaldda/chirper) - Chirper is a Full Stack App was developed based on Laravel Bootcamp, and it is based on
 Livewire for frontend.
