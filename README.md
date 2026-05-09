@@ -20,7 +20,7 @@ I design and ship production Laravel platforms — **multi-tenant systems**, **o
 
 I work with **AI-assisted development tools** (Claude Code, Cursor, GitHub Copilot) as a daily part of my workflow — they let me move from a blank screen to a working feature in hours instead of days.
 
-## 🌟 Featured project
+## 🌟 Featured projects
 
 ### [CapTab](https://github.com/saberaldda/captab) — Pharmacy ERP (Live)
 
@@ -29,11 +29,17 @@ A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, po
 **Stack:** Laravel 11, Filament 3, Spatie Permissions, Spatie Translatable, Sanctum, JWT, Telescope, MySQL
 **Live:** [new.captabapp.com](https://new.captabapp.com)
 
+### 🔄 [Laravel PowerSync](https://github.com/saberaldda/laravel-powersync) — Open-source Laravel Package
+
+The Laravel backend for [PowerSync](https://www.powersync.com/) offline-first sync — drop it into any Laravel app and your mobile clients get a working sync backend in minutes. Handles RS256 JWT token generation, JWKS key endpoint, and data-change upload processing with full multi-tenant isolation out of the box.
+
+**Stack:** Laravel 10 / 11 / 12, PHP 8.1+, `firebase/php-jwt`, RSA-2048/4096
+**Install:** `composer require saberaldda/laravel-powersync`
+
 ## 🗂️ Other projects
 
 - 📻 **[Radio Gaza](https://github.com/saberaldda/radio-gaza)** — Production web platform and CMS for a Palestinian radio station. Live audio streaming, news, push notifications via Firebase, Passport-authenticated mobile API. Live: [radiogaza.com](https://radiogaza.com/)
 - 💛 **[Ba3yonena](https://github.com/saberaldda/ba3yonena)** — Charity and orphan sponsorship platform. Trilingual (Arabic / English / Turkish), multi-step registration with validation, sponsor portal, role-based admin, mobile API with Firebase push. Live: [orphans.denizfeneri.org](https://orphans.denizfeneri.org/)
-- 🔄 **[Laravel PowerSync](https://github.com/saberaldda/laravel-powersync)** — Open-source Laravel package that wires up the PowerSync offline-first sync backend — JWT token generation, JWKS endpoint, and data-change upload processing. Single-tenant and multi-tenant ready. Works with Laravel 10 / 11 / 12.
 - 🤖 **[Laravel Invoice Nudge](https://github.com/saberaldda/laravel-invoice-nudge)** — Open-source Laravel package that generates AI-written invoice reminder emails (Claude / OpenAI). Pluggable provider, configurable tone, multilingual output, prompt caching.
 - 📖 **[Tahfiz](https://github.com/saberaldda/tahfiz)** — Activity-management platform for Qur'an memorization circles. Daily activity tracking, student evaluation, and progress reporting in Arabic.
 - 🛒 **[TDS-Store](https://github.com/saberaldda/TDS-store)** — Multi-manager e-commerce platform with a full admin dashboard.
