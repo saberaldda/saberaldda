@@ -1,75 +1,52 @@
-<!-- <h1> Hi there, I'm Saber Al-Dada 👋 </h1>
- -->
-<h1 align="center">Hi there! 👋, I'm <a href="#">Saber Al-Dada!</a></h1>
+<h1 align="center">Hi, I'm Saber Al-Dada</h1>
 
-<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- 
-## 🙋‍♀️ About Me
+<p align="center">
+  Full-stack Laravel developer from Gaza, Palestine.<br>
+  I build <strong>offline-first, bilingual (Arabic / English)</strong> web platforms with Laravel + Filament for businesses that work in low-connectivity environments.
+</p>
 
-- Backend Web Developer
-- PHP laravel Developer
-<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saberaldda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:saberaldda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/970592105521"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://linktr.ee/saberaldda"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white"></a>
+</p>
 
-## Skills:
+---
 
-<table border="0">
-    <tr>
-        <td>
+## What I do
 
-✅ PHP
+I design and ship Laravel applications that have to keep working when conditions are not ideal — unstable internet, bilingual users, multi-tenant data, small teams running real businesses. My day-to-day is **Laravel 11**, **Filament 3**, **Livewire**, **MySQL**, and a REST API layer with **Sanctum / JWT** powering mobile clients.
 
-✅ Laravel
+I work with **AI-assisted development tools** (Claude Code, Cursor, GitHub Copilot) as a daily part of my workflow — they let me move from a blank screen to a working feature in hours instead of days.
 
-✅ Livewire
+## Featured project
 
-✅ Docker
+### [CapTab](https://github.com/saberaldda/captab) — Pharmacy ERP (Live)
+A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, point-of-sale, customers, suppliers, analytics — all in a bilingual (AR / EN) admin panel and offline-first mobile apps for iOS and Android.
 
-✅ REST API
+**Stack:** Laravel 11, Filament 3, Spatie Permissions, Spatie Translatable, Sanctum, JWT, Telescope, MySQL
+**Live:** [new.captabapp.com](https://new.captabapp.com)
 
-✅ MySQL
+## Other projects
 
-✅ Git
-        </td>
-        <td>
-✅ HTML/HTML5
+- **[Tahfiz](https://github.com/saberaldda/tahfiz)** — Activity-management platform for Qur'an memorization circles. Daily activity tracking, student evaluation, and progress reporting in Arabic.
+- **[TDS-Store](https://github.com/saberaldda/TDS-store)** — Multi-manager e-commerce platform with a full admin dashboard.
 
-✅ CSS/CSS3
+## Stack
 
-✅ Bootstrap
+**Backend** — PHP 8.2, Laravel 11, Filament 3, Livewire, MySQL, REST APIs, Sanctum, JWT
+**Frontend** — Blade, Tailwind CSS, Alpine.js, Bootstrap, Vite
+**Infra & tooling** — Docker, Git, Laravel Telescope, queue workers
+**AI workflow** — Claude Code, Cursor, GitHub Copilot
+**Languages** — Arabic (native), English (professional working proficiency)
 
-✅ Tailwind
+## Open to
 
-✅ JS
-        </td>
-    </tr>
-</table>
+Co-founder roles, contract work, and full-time positions building production Laravel platforms — especially anything involving offline-first architecture, multi-tenant systems, or bilingual products.
 
-<br>
- 
-## 💻 Projects
+## Contact
 
-Here are some of my recent projects that I'm proud of:
-
-- 👨‍🏫 [Tahfiz](https://github.com/saberaldda/tahfiz) - برنامج لإدارة أنشطة حلقات التحفيظ, يهدف البرنامج لوضع أنشطة يومية للطالب ومتابعتها مع وجود تقييم لأداء الطالب لهذه الأنشطة
-
-- 🕊🚀 [Chirper](https://github.com/saberaldda/chirper) - Chirper is a Full Stack App was developed based on Laravel Bootcamp, and it is based on
-Livewire for frontend.
-
-- 🛒 [TDS-Store](https://github.com/saberaldda/TDS-store) - TDS-Store is an e-commerce store with dashboard for multi managers..
-
-- 💡 [Personal Blog](https://github.com/saberaldda/Personal_blog) - a personal blog with laravel-ui.
-
-- 🎨 [To-Do-List](https://github.com/saberaldda/To-Do-List) - To-Do list App.
- 
-<br>
-
-## 💬 Contact Me
-
-Feel free to reach out to me if you want to connect or collaborate on a project. You can find me on below liks or send an email to.
-
-- Email : saberaldda@gmail.com
-#
- 
-<p><a href="http://Wa.me/970592105521" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/saberaldda" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <!-- <a href="https://www.youtube.com/@thedarksaber0" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p> -->
+- **Email** — saberaldda@gmail.com
+- **LinkedIn** — [linkedin.com/in/saberaldda](https://www.linkedin.com/in/saberaldda)
+- **WhatsApp** — [+970 592 105 521](https://wa.me/970592105521)
