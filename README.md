@@ -33,6 +33,7 @@ A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, po
 
 - 📻 **[Radio Gaza](https://github.com/saberaldda/radio-gaza)** — Production web platform and CMS for a Palestinian radio station. Live audio streaming, news, push notifications via Firebase, Passport-authenticated mobile API. Live: [radiogaza.com](https://radiogaza.com/)
 - 💛 **[Ba3yonena](https://github.com/saberaldda/ba3yonena)** — Charity and orphan sponsorship platform. Trilingual (Arabic / English / Turkish), multi-step registration with validation, sponsor portal, role-based admin, mobile API with Firebase push. Live: [orphans.denizfeneri.org](https://orphans.denizfeneri.org/)
+- 🔄 **[Laravel PowerSync](https://github.com/saberaldda/laravel-powersync)** — Open-source Laravel package that wires up the PowerSync offline-first sync backend — JWT token generation, JWKS endpoint, and data-change upload processing. Single-tenant and multi-tenant ready. Works with Laravel 10 / 11 / 12.
 - 🤖 **[Laravel Invoice Nudge](https://github.com/saberaldda/laravel-invoice-nudge)** — Open-source Laravel package that generates AI-written invoice reminder emails (Claude / OpenAI). Pluggable provider, configurable tone, multilingual output, prompt caching.
 - 📖 **[Tahfiz](https://github.com/saberaldda/tahfiz)** — Activity-management platform for Qur'an memorization circles. Daily activity tracking, student evaluation, and progress reporting in Arabic.
 - 🛒 **[TDS-Store](https://github.com/saberaldda/TDS-store)** — Multi-manager e-commerce platform with a full admin dashboard.
