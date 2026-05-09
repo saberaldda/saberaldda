@@ -22,7 +22,7 @@ I work with **AI-assisted development tools** (Claude Code, Cursor, GitHub Copil
 
 ## 🌟 Featured projects
 
-### [CapTab](https://github.com/saberaldda/captab) — Pharmacy ERP (Live)
+### 💊 [CapTab](https://github.com/saberaldda/captab) — Pharmacy ERP (Live)
 
 A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, point-of-sale, customers, suppliers, analytics — all in a bilingual (AR / EN) admin panel and offline-first mobile apps for iOS and Android.
 
