@@ -23,6 +23,7 @@ I work with **AI-assisted development tools** (Claude Code, Cursor, GitHub Copil
 ## Featured project
 
 ### [CapTab](https://github.com/saberaldda/captab) — Pharmacy ERP (Live)
+
 A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, point-of-sale, customers, suppliers, analytics — all in a bilingual (AR / EN) admin panel and offline-first mobile apps for iOS and Android.
 
 **Stack:** Laravel 11, Filament 3, Spatie Permissions, Spatie Translatable, Sanctum, JWT, Telescope, MySQL
@@ -39,7 +40,7 @@ A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, po
 **Frontend** — Blade, Tailwind CSS, Alpine.js, Bootstrap, Vite
 **Infra & tooling** — Docker, Git, Laravel Telescope, queue workers
 **AI workflow** — Claude Code, Cursor, GitHub Copilot
-**Languages** — Arabic (native), English (professional working proficiency)
+**Languages** — Arabic (native), English (professional working)
 
 ## Open to
 
