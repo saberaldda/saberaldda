@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-stack Laravel developer from Gaza, Palestine.<br>
-  I build <strong>offline-first, bilingual (Arabic / English)</strong> web platforms with Laravel + Filament for businesses that work in low-connectivity environments.
+  I build production web platforms with <strong>Laravel + Filament</strong> — multi-tenant systems, REST APIs, and offline-first mobile experiences in Arabic and English.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## What I do
 
-I design and ship Laravel applications that have to keep working when conditions are not ideal — unstable internet, bilingual users, multi-tenant data, small teams running real businesses. My day-to-day is **Laravel 11**, **Filament 3**, **Livewire**, **MySQL**, and a REST API layer with **Sanctum / JWT** powering mobile clients.
+I design and ship production Laravel platforms — **multi-tenant systems**, **offline-first mobile clients**, **bilingual (Arabic / English) interfaces**, and the **REST APIs** that tie them together. My day-to-day stack is Laravel 11, Filament 3, Livewire, MySQL, and Sanctum / JWT for mobile authentication.
 
 I work with **AI-assisted development tools** (Claude Code, Cursor, GitHub Copilot) as a daily part of my workflow — they let me move from a blank screen to a working feature in hours instead of days.
 
@@ -43,7 +43,7 @@ A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, po
 
 ## Open to
 
-Co-founder roles, contract work, and full-time positions building production Laravel platforms — especially anything involving offline-first architecture, multi-tenant systems, or bilingual products.
+Co-founder roles, contract work, and full-time positions building production Laravel platforms — especially work on multi-tenant architecture, offline-first sync, or bilingual products with international reach.
 
 ## Contact
 
