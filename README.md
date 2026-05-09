@@ -47,7 +47,7 @@ A multi-tenant ERP for pharmacies, clinics, and medical suppliers. Inventory, po
 
 ## Open to
 
-Co-founder roles, contract work, and full-time positions building production Laravel platforms — especially work on multi-tenant architecture, offline-first sync, or bilingual products with international reach.
+Contract work, and full-time positions building production Laravel platforms — especially work on multi-tenant architecture, offline-first sync, or bilingual products with international reach.
 
 ## Contact
 
