@@ -47,9 +47,17 @@ The Laravel backend for [PowerSync](https://www.powersync.com/) offline-first sy
 ## 🛠️ Stack
 
 ⚙️ **Backend** — PHP 8.2, Laravel 11, Filament 3, Livewire, MySQL, REST APIs, Sanctum, JWT
+
 🎨 **Frontend** — Blade, Tailwind CSS, Alpine.js, Bootstrap, Vite
-🚀 **Infra & tooling** — Docker, Git, Laravel Telescope, queue workers
-🤖 **AI workflow** — Claude Code, Cursor, GitHub Copilot
+
+📱 **Mobile & Sync** — PowerSync (offline-first SQLite sync), Firebase Cloud Messaging, JWT / RSA key signing
+
+📦 **Packages & integrations** — Maatwebsite Excel, Laravel PDF, Intervention Image, PHPWord, Yajra Datatables
+
+🚀 **Infra & tooling** — Git, Docker, Composer, Laravel Telescope
+
+🤖 **AI workflow** — Claude Code, Cursor, GitHub Copilot, Antigravity
+
 🌐 **Languages** — Arabic (native), English (professional working)
 
 ## 💼 Open to
